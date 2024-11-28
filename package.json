@@ -1,0 +1,26 @@
+{
+  "name": "national-code-validation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nationalCode",
+    "validation",
+    "farsi",
+    "persian",
+    "iran",
+    "iranian",
+    "code-melli",
+    "codeMelli",
+    "react"
+  ],
+  "author": "elham-zahir",
+  "license": "MIT",
+  "description": "A simple validation plugin for Iranian national codes",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/elham-zahir/national-code-validation.git"
+  }
+}
